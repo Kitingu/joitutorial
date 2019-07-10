@@ -1,0 +1,24 @@
+{
+  "name": "joitutorial",
+  "version": "1.0.0",
+  "description": "A simple tutorial on how to use joi for node js input validation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kitingu/joitutorial.git"
+  },
+  "keywords": [],
+  "author": "kiting'u",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kitingu/joitutorial/issues"
+  },
+  "homepage": "https://github.com/Kitingu/joitutorial#readme",
+  "dependencies": {
+    "@hapi/joi": "^15.1.0",
+    "express": "^4.17.1"
+  }
+}
