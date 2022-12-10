@@ -19,6 +19,6 @@
   "homepage": "https://github.com/Kitingu/joitutorial#readme",
   "dependencies": {
     "@hapi/joi": "^15.1.0",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
